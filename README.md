@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Ultr4Anubis/Minecraft-Item-Scale/">
+  <a href="https://github.com/Ultr4Anubis/Bedrock-Templates/">
     <img src="images/headshot.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Render Offset Generator</h3>
+  <h3 align="center">Bedrock Templates</h3>
 
   <p align="center">
-    A script to help you fix that annoying huge items bug!
+    A range of templates for Minecraft: Bedrock Edition! 
     <br />
   </p>
 </p>
@@ -23,42 +23,31 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This was my first solo python project I have created. It has allowed me to imporve my understanding and ability to use the language.
-
-Here's why this project is useful:
-* Is script automates a very boring and tedious task that no-one wants to do
-* It takes about 2 seconds to generate your scale values
-* It automatically puts your values into the `render_offset` component ready for you to just copy and paste into your code. :smile:
+Over the spand of a year, I have been asked how to construct certain things or if I can help do something. So, I have taken up the task of creating a load of templates that are easy to understand, simple to replicate and should help solve many problems faced.
 
 <!-- ADDITIONAL INFORMATION -->
 ## Additional Information
 
-If you do not have python installed on your device, dont fear. You can use this online compiler to run the code: [Online Compiler](https://www.programiz.com/python-programming/online-compiler/)
-* Make sure to copy the code from the `scale.py` file
-* Delete the current code inside the Online complier
-* Paste the contents of the `scale.py` file inside the left side of the compiler
-* Hit run and follow the steps in the terminal, the left side of the compiler
-* **Note** Once you have pasted the code inside the left side of the compiler, do not type in that section, all inputs should be entered inside the terminal
+It is important that you have some sort of file editor that you can edit `.json` files on. Below is a list that I have personally used and have enjoyed using.
+
+- Bridge. V2 :: https://editor.bridge-core.app/
+- VSCode + Blockception extension :: https://code.visualstudio.com/ & https://marketplace.visualstudio.com/items?itemName=BlockceptionLtd.blockceptionvscodeminecraftbedrockdevelopmentextension
+- Notepad ++ :: https://notepad-plus-plus.org/downloads/
 
 <!-- CONTRIBUTING -->
 ## Contributing
+If you have any requests, head over to the issues tab and select "request".
 
-Contributions are **greatly appreciated**. IF you would like to contribute to this project, please follow the steps below:
-
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
+Here you can follow the guide and fill out appropiately what you would like to see
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ultr4Anubis/Minecraft-Item-Scale.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ultr4Anubis/Minecraft-Item-Scale/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ultr4Anubis/Minecraft-Item-Scale.svg?style=for-the-badge
-[forks-url]: https://github.com/Ultr4Anubis/Minecraft-Item-Scale/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ultr4Anubis/Minecraft-Item-Scale.svg?style=for-the-badge
-[stars-url]: https://github.com/Ultr4Anubis/Minecraft-Item-Scale/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ultr4Anubis/Minecraft-Item-Scale.svg?style=for-the-badge
-[issues-url]: https://github.com/Ultr4Anubis/Minecraft-Item-Scale/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Ultr4Anubis/Bedrock-Templates.svg?style=for-the-badge
+[contributors-url]: https://github.com/Ultr4Anubis/Bedrock-Templates/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Ultr4Anubis/Bedrock-Templates.svg?style=for-the-badge
+[forks-url]: https://github.com/Ultr4Anubis/Bedrock-Templates/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ultr4AnubisBedrock-Templates.svg?style=for-the-badge
+[stars-url]: https://github.com/Ultr4Anubis/Bedrock-Templates/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ultr4Anubis/Bedrock-Templates.svg?style=for-the-badge
+[issues-url]: https://github.com/Ultr4Anubis/Bedrock-Templates/issues
 
