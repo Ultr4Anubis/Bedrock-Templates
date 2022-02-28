@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Ultr4Anubis/Bedrock-Templates/">
-    <img src="images/headshot.png" alt="Logo" width="80" height="80">
+    <img src="images/ultra.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Bedrock Templates</h3>
