@@ -11,7 +11,7 @@
     A range of templates for Minecraft: Bedrock Edition! 
     <br />
   </p>
-</p>
+</p align="center">
 
   [![Contributors][contributors-shield]][contributors-url]
   [![Forks][forks-shield]][forks-url]
