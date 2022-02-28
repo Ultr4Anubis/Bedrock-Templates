@@ -46,7 +46,7 @@ Here you can follow the guide and fill out appropiately what you would like to s
 [contributors-url]: https://github.com/Ultr4Anubis/Bedrock-Templates/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Ultr4Anubis/Bedrock-Templates.svg?style=for-the-badge
 [forks-url]: https://github.com/Ultr4Anubis/Bedrock-Templates/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ultr4AnubisBedrock-Templates.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Ultr4Anubis/Bedrock-Templates.svg?style=for-the-badge
 [stars-url]: https://github.com/Ultr4Anubis/Bedrock-Templates/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Ultr4Anubis/Bedrock-Templates.svg?style=for-the-badge
 [issues-url]: https://github.com/Ultr4Anubis/Bedrock-Templates/issues
