@@ -1,0 +1,12 @@
+{
+    "resource_pack_name": "Attachables_Template",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "batman_mask": {
+            "textures": "textures/items/batman_mask"
+        },
+        "batman_shirt": {
+            "textures": "textures/items/batman_shirt"
+        }
+    }
+}

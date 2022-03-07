@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§aTemplate §f::§cAttachable template",
+        "description": "§6This pack was developed by §aUltra!",
+        "uuid": "1a089c14-21a6-4f16-a233-0294edfaa0d1",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "00f3ef7f-7dd1-43c1-97f1-de0991a6b621",
+            "version": [ 1, 0, 0 ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "Ultra"
+        ],
+        "url": "https://github.com/Ultr4Anubis/Bedrock-Templates"
+    }
+}

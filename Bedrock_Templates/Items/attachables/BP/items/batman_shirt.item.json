@@ -1,0 +1,28 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+        "description": {
+            "identifier": "ultra:batman_shirt",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:armor": {
+                "protection": 20
+            },
+            "minecraft:wearable": {
+                "slot": "slot.armor.chest",
+                "dispensable": true
+            },
+            "minecraft:display_name": {
+                "value": "Batman Shirt"
+            },
+            "minecraft:icon": {
+                "texture": "batman_shirt"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:creative_category": {
+				"parent": "itemGroup.name.chestplate"
+			}
+        }
+    }
+}
